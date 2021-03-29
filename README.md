@@ -1,4 +1,4 @@
-# Hi 👋 I'm Carlos Mora
+# Hi 👋 I'm Carlos Mora<img align="left" width="50px" src="https://github.githubassets.com/images/mona-whisper.gif">
 
 ### Soy Desarrollador Web jr
 ## Connect with me
