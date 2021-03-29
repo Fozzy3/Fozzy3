@@ -1,7 +1,6 @@
-# Hi 👋 I'm Carlos Mora<img align="left" width="50px" src="https://github.githubassets.com/images/mona-whisper.gif">
-
-## Desarrollador Web jr
-## Connect with me:fox_face:
+## Hi 👋 I'm Carlos Mora<img width="50px" src="https://github.githubassets.com/images/mona-whisper.gif">
+### Desarrollador Web jr
+### Connect with me:
 [<img align="left" alt="Facebbok" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][Instagram]
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
