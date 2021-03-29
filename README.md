@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hi 👋 I'm Carlos Mora
+
+### Soy Desarrollador Web jr
 
 ## Connect with me
 
