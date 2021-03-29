@@ -1,20 +1,15 @@
-# Hi 👋 I'm Carlos Mora
+# Hi 👋 I'm Carlos Mora<img width="60px" alt="HTML5" src="https://camo.githubusercontent.com/c4cc8fb0f0c06f0057640b46aab87e483f54e913fdbf52c9ee690c8204c52b44/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966">
 
 ### Soy Desarrollador Web jr
-
 ## Connect with me
-
 [<img align="left" alt="Facebbok" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][Instagram]
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
-
-
 [Facebook]:https://www.facebook.com/carlosstiven.morahoyos/
 [Instagram]:https://www.instagram.com/carlos_mora024/
 [linkedin]:https://www.linkedin.com/in/carlos-mora-592a421a7/
 [Telegram]:https://t.me/Fozzy3
-
 <br>
 
 ## Technology Stack:
@@ -24,10 +19,9 @@
 <img align="left" width="30px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" width="30px" alt="Git" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4">
 <img align="left" width="30px" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+<br>
+<br>
 
-<br>
-<br>
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fozzy3&theme=algolia&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fozzy3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
