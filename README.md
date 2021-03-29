@@ -13,7 +13,7 @@
 [linkedin]:https://www.linkedin.com/in/carlos-mora-592a421a7/
 [Telegram]:https://t.me/Fozzy3
 
-<br>
+<br>https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png
 
 ## Technology Stack:
 
