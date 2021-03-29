@@ -24,6 +24,8 @@
 <img align="left" width="30px" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 
 <br>
+<br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fozzy3&theme=algolia&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fozzy3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
