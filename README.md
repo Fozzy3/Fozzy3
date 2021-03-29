@@ -1,4 +1,4 @@
-# Hi 👋 I'm Carlos Mora<img width="60px" alt="HTML5" src="https://camo.githubusercontent.com/c4cc8fb0f0c06f0057640b46aab87e483f54e913fdbf52c9ee690c8204c52b44/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966">
+# Hi 👋 I'm Carlos Mora
 
 ### Soy Desarrollador Web jr
 ## Connect with me
@@ -6,6 +6,7 @@
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][Instagram]
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
+
 [Facebook]:https://www.facebook.com/carlosstiven.morahoyos/
 [Instagram]:https://www.instagram.com/carlos_mora024/
 [linkedin]:https://www.linkedin.com/in/carlos-mora-592a421a7/
