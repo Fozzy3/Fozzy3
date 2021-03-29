@@ -1,7 +1,7 @@
 # Hi 👋 I'm Carlos Mora<img align="left" width="50px" src="https://github.githubassets.com/images/mona-whisper.gif">
 
-### Soy Desarrollador Web jr
-## Connect with me
+## Soy Desarrollador Web jr
+### Connect with me:fox_face:
 [<img align="left" alt="Facebbok" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][Instagram]
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
@@ -13,7 +13,7 @@
 [Telegram]:https://t.me/Fozzy3
 <br>
 
-## Technology Stack:
+## :dart:Technology Stack:
 
 <img align="left" width="30px" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" width="30px" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
